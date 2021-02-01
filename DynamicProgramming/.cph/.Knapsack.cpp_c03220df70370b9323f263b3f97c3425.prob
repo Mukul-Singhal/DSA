@@ -1,1 +1,0 @@
-{"name":"Local: Knapsack","url":"c:\\Users\\mukul\\OneDrive\\Desktop\\DSA\\DynamicProgramming\\Knapsack.cpp","tests":[{"id":1612158438125,"input":"4\n4 5 1\n1 2 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mukul\\OneDrive\\Desktop\\DSA\\DynamicProgramming\\Knapsack.cpp","group":"local","local":true}
